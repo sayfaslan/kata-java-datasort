@@ -24,7 +24,7 @@ and it's cause. Partial execution is prefered instead of stopping the utility.
 ### Code style
 `datasort` is written with "Clean code" in mind.
 
-**Utility specs**:
-language ver.: Java 21;
-building tool: Maven;
-libs: not used;
+#### Utility specs:
+- language ver.: Java 21;
+- building tool: Maven;
+- libs: not used;
