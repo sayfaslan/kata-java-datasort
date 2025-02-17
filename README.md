@@ -10,11 +10,11 @@ Writes each data type into different specific file. Default filenames - integers
 Creates specific file only if there according data; empty default file not needed. 
 
 #### Options
-`-o`: defines a path for output file (`datasort -o /some/path`). Default path - current folder.
-`-p`: adds prefix to default filename (`datasort -o /some/path -p result_`).
-`-a`: adds data into file; without this option (by default) file will be overwriten.
-`-s`: collects short statistics. Saves amount of elements for each type. Printed into console for each type.
-`-f`: collects full statistics. Additionally saves - for numbers: min, max, sum and average values;
+- `-o`: defines a path for output file (`datasort -o /some/path`). Default path - current folder.
+- `-p`: adds prefix to default filename (`datasort -o /some/path -p result_`).
+- `-a`: adds data into file; without this option (by default) file will be overwriten.
+- `-s`: collects short statistics. Saves amount of elements for each type. Printed into console for each type.
+- `-f`: collects full statistics. Additionally saves - for numbers: min, max, sum and average values;
 for strings: min and max string length. Printed into console for each type.
 
 #### Exceptions
