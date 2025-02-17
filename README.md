@@ -3,9 +3,9 @@
 Resulting output are separate files for each data type.
 
 #### Input
-Text files, which contains unsorted unordered strings, integers and floats. As delimeter used newline symbol.
+Text files, which contains unsorted unordered strings, integers and floats. As delimeter for tokens in files are used newline symbol.
 
-#### Feature
+#### Features
 Writes each data type into different specific file. Default filenames - integers.txt, floats.txt, strings.txt.
 Creates specific file only if there according data; empty default file not needed. 
 
