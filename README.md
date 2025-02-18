@@ -1,5 +1,5 @@
 # Data sorting utility
-`datasort` is console utility for sorting data from text files. Able to process strings, integers and floats.
+`datasort` is console utility for sorting data from text files. Able to handle strings, integers and floats.
 Resulting output are separate files for each data type.
 
 ### Input
@@ -7,7 +7,7 @@ Text files, which contains unsorted unordered strings, integers and floats. As d
 
 ### Features
 Writes each data type into different specific file. Default filenames - integers.txt, floats.txt, strings.txt.
-Creates specific file only if there according data; empty default file not needed. 
+Creates specific file only if there is according data; empty default file not needed. 
 
 ### Options
 - `-o`: defines a path for output file (`datasort -o /some/path`). Default path - current folder.
