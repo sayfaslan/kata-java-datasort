@@ -10,7 +10,7 @@ Text files, which contains unsorted unordered strings, integers and floats. As d
 ## Features
 
 Writes each data type into different specific file. Default filenames - integers.txt, floats.txt, strings.txt.
-Creates specific file only if there is according data; empty default file not needed. 
+Creates specific file only if there is according data; empty default file not needed.
 
 ## Options
 
